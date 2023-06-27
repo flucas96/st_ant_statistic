@@ -20,7 +20,7 @@ with col_left:
     st_ant_statistic(
         title="My Statistic",
         value=150.243,
-        prefix="<i class='fa-sharp fa-regular fa-truck' aria-hidden='true'></i>",
+        prefix="<i class='fa fa-check' aria-hidden='true'></i>",
         precision=2,
         loadingAnimation=loading_anmiation,
         loadingDuration=loading_duration,
