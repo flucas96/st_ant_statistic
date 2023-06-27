@@ -25,7 +25,6 @@ with col_left:
         loadingAnimation=loading_anmiation,
         loadingDuration=loading_duration,
         decimalSeperator=",",
-        custom_font_awesome_url= "https://kit.fontawesome.com/d115db5fb4.js"
     )
 
 with col_right: 
