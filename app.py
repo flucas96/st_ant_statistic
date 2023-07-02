@@ -91,7 +91,7 @@ with col_left:
         value=100/3,
         prefix="<i class='fa fa-check' aria-hidden='true'></i>",
         precision=2,
-        decimalSeperator=";",
+        decimalSeperator=".",
         card=True,
         card_bordered=False,
         card_hoverable=True,
