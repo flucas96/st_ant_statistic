@@ -2,8 +2,7 @@ import streamlit  as st
 from st_ant_statistic import st_ant_statistic
 from typing import Dict
 
-
-
+###
 st.set_page_config(layout="wide")
 
 st.title('Streamlit Ant Statistic Component Demo')
